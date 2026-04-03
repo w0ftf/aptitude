@@ -9,9 +9,14 @@ This repository is my hands-on automation workspace.
 - Infrastructure as Code with Ansible playbooks/roles and Terraform
 - Monitoring and observability automation (CloudWatch agents/alarms, SignalFx workflows)
 - API scripting for admin tasks (for example, account/user lifecycle actions)
+- AI agent and bot tasks automation (OpenAI, Claude, DeepSeek, Ollama, Hugging Face)
 - Legacy bot/chat automation with Tcl and Perl scripting
 
 ## Representative Works
+
+### AI
+- AI backend or persona such as OpenAI, Claude, DeepSeek, Ollama, Hugging Face, or a pentesting-focused setup, while offering broadly similar chat and automation behavior
+- features like channel replies, logging, conversation memory, search or utility commands, and per-channel AI on/off controls, with settings loaded from local config files
 
 ### Shell Automation
 
