@@ -16,7 +16,7 @@ This repository is my hands-on automation workspace.
 
 ### AI
 - AI backend or persona such as OpenAI, Claude, DeepSeek, Ollama, Hugging Face, or a pentesting-focused setup, while offering broadly similar chat and automation behavior
-- features like channel replies, logging, conversation memory, search or utility commands, and per-channel AI on/off controls, with settings loaded from local config files
+- Features like channel replies, logging, conversation memory, search or utility commands, and per-channel AI on/off controls, with settings loaded from local config files
 
 ### Shell Automation
 
