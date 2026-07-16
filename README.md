@@ -30,7 +30,7 @@ This repository is my hands-on automation workspace.
 ### Ansible Automation
 
 - EC2 instance provisioning role 
-- Demisto deployment/upgrade automation
+- Demisto, SOAR, SIEM deployment/upgrade automation
 - System update orchestration
 - Host-level operational playbooks
 
